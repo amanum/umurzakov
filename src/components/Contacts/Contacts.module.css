@@ -1,0 +1,54 @@
+.contacts {
+    padding: 100px 0;
+}
+.contactsForm {
+    width: 500px;
+    margin: 0 auto;
+    padding: 30px;
+    background: #363637;
+    box-shadow: 0 0 10px #00000030;
+}
+.contactsForm input,
+.contactsForm textarea {
+    width: 100%;
+    display: block;
+    padding: 10px 15px;
+    resize: none;
+    box-shadow: 0 0 10px #00000080;
+    background: #363637;
+    border: none;
+    color: #ffffff;
+}
+.contactsForm input {
+    margin-bottom: 10px;
+}
+.contactsForm textarea {
+    height: 100px;
+}
+.contactsBtn {
+    margin: 30px auto 0;
+    background: #363637;
+    color: #ffffff;
+    padding: 5px 10px;
+    cursor: pointer;
+    border: 1px solid #EA548D;
+}
+
+@media screen and (max-width: 1199px) {
+
+}
+
+@media screen and (max-width: 991px) {
+
+}
+
+@media screen and (max-width: 767px) {
+
+}
+
+@media screen and (max-width: 575px) {
+    .contactsForm {
+        width: unset;
+        max-width: 500px;
+    }
+}
