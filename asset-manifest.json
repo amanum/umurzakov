@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/umurzakov/static/css/main.77c923fa.chunk.css",
+    "main.js": "/umurzakov/static/js/main.be68c18c.chunk.js",
+    "main.js.map": "/umurzakov/static/js/main.be68c18c.chunk.js.map",
+    "runtime-main.js": "/umurzakov/static/js/runtime-main.8632ca7c.js",
+    "runtime-main.js.map": "/umurzakov/static/js/runtime-main.8632ca7c.js.map",
+    "static/js/2.b1e5fe29.chunk.js": "/umurzakov/static/js/2.b1e5fe29.chunk.js",
+    "static/js/2.b1e5fe29.chunk.js.map": "/umurzakov/static/js/2.b1e5fe29.chunk.js.map",
+    "index.html": "/umurzakov/index.html",
+    "precache-manifest.7e2b8b7c2c5cb2bb6972fecd1fc14092.js": "/umurzakov/precache-manifest.7e2b8b7c2c5cb2bb6972fecd1fc14092.js",
+    "service-worker.js": "/umurzakov/service-worker.js",
+    "static/css/main.77c923fa.chunk.css.map": "/umurzakov/static/css/main.77c923fa.chunk.css.map",
+    "static/media/offerImg.jpg": "/umurzakov/static/media/offerImg.e3af08b3.jpg",
+    "static/media/worksImg.jpg": "/umurzakov/static/media/worksImg.58644f1c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8632ca7c.js",
+    "static/js/2.b1e5fe29.chunk.js",
+    "static/css/main.77c923fa.chunk.css",
+    "static/js/main.be68c18c.chunk.js"
+  ]
+}
